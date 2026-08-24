@@ -1,0 +1,6 @@
+{
+  "name": "TASKORA",
+  "description": "A clean, Notion-inspired task management productivity dashboard built with Vanilla JavaScript for Codveda Web Development Internship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
